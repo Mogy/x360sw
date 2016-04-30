@@ -18,6 +18,12 @@ Releaseフォルダのxinput1_3.dllを対応ゲームフォルダの直下に置
 例えばDungeon Defendersなら  
 [*SteamLibrary\SteamApps\common\Dungeon Defenders\Binaries\Win32*]
 
+#### *注意！*
+
+*SteamのBigPictureモードからゲームを起動すると、ガイドボタンの操作が上書きされて  
+追加機能が使えなくなるようです。  
+ゲームを起動する際はデスクトップモード経由で起動して下さい。*
+
 ## プレイヤー切替機能
 
 ガイドボタンを押しながら十字キーでプレイヤー操作を切り替えます。  
